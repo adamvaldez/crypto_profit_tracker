@@ -11,7 +11,9 @@ If you are using a Ledger or any other hardware wallet, keeping track of your ga
 
 ### Setup
 1. Install coinmarketcap via pip or prefered method
+> pip install coinmarketcap
 2. Install termcolor via pip or prefered method
+> pip install termcolor
 3. Enter your crypto values from your ledger in the *ledger* dictionary
 4. Enter your crypto values from your exchange in the *exchange* dictionary
 5. Enter your investment amount (how much USD have you invested in total)
