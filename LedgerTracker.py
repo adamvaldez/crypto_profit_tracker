@@ -23,8 +23,7 @@ def coinmarket_cap():
     total = {}
     # How much you have invested into cyrpto in total
     total_inv = 1000
-    # Wallet value, if known
-    walletValue = 10.00
+    walletValue = 0.00
     coinmarketcap = Market()
     # Lower limit means less coins, however faster result
     # Always start with BTC to star from top of list (assuming BTC is still #1)
