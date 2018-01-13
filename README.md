@@ -1,4 +1,4 @@
-# crypto_profit_tracker
+# crypto_profit_tracker 1.0
 
 ![Screenshot](https://github.com/adamvaldez/crypto_profit_tracker/blob/master/Screen%20Shot%202018-01-12%20at%2010.08.18%20PM.png "Screenshot via terminal")
 
@@ -8,7 +8,6 @@ If you are using a Ledger or any other hardware wallet, keeping track of your ga
 1. Displays ist all of your cryptos names, current price, percentage change and your value in USD.
 2. Displays Hardware crypto individual USD value, total value of hardware
 3. Displays total USD value, USD invested, USD profit, profit % in color
-
 
 ### Setup
 1. Install coinmarketcap via pip or prefered method
