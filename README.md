@@ -1,5 +1,7 @@
 # crypto_profit_tracker
 
+![Screenshot](https://github.com/adamvaldez/crypto_profit_tracker/blob/master/Screen%20Shot%202018-01-12%20at%2010.08.18%20PM.png "Screenshot via terminal")
+
 ### About
 I wrote the following script to help me keep track of my crypto's progress.
 If you are using a Ledger or any other hardware wallet, keeping track of your gains.
